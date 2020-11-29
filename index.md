@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ducksoftheworld/ducksite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to the Duck Zone!!
+Say hello to my Duck website! Here I will take out on a glorious journey to discover ducks facts, and also, to take you along with me.
 
 ### Markdown
 
